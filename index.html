@@ -4,9 +4,9 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        
-        
-        
+        <meta name="description" content="飞出国有资质移民中介名单，有出入境资质中介机构清单。">
+        <meta name="author" content="flyabroad">
+        <link rel="canonical" href="http://zj.flyabroad.biz/">
         <link rel="shortcut icon" href="favicon.ico">
         
 
@@ -70,6 +70,11 @@
 
             <!-- Search, Navigation and Repo links -->
             <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                        <i class="fa fa-search"></i> Search
+                    </a>
+                </li>
                 <li class="disabled">
                     <a rel="next" >
                         <i class="fa fa-arrow-left"></i> Previous
@@ -101,9 +106,44 @@
 <p>本网站介绍国内外移民中介。</p></div>
         </div>
 
+        <footer class="col-md-12">
+            <hr>
+            
+                <center>Copyright &copy; 2005-2016 <a href="http://flyabroad.com.hk/" target="_blank">飞出国</a>，powered by <a href="http://flyabroad.me/" target="_blank">FLYabroad</a>。</center>
+            
+            <center>更详细内容请访问 <a href="http://fcgvisa.com/" target="_blank">飞出国论坛</a>。需要帮助请提交<a href="http://pg.flyabroadvisa.com/" target="_blank">在线评估</a>。</center>
+        </footer>
+
         <script src="./js/jquery-1.10.2.min.js"></script>
         <script src="./js/bootstrap-3.0.3.min.js"></script>
         <script src="./js/highlight.pack.js"></script>
+        <script>var base_url = '.';</script>
+        <script data-main="./mkdocs/js/search.js" src="./mkdocs/js/require.js"></script>
         <script src="./js/base.js"></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                        <h4 class="modal-title" id="exampleModalLabel">Search</h4>
+                    </div>
+                    <div class="modal-body">
+                        <p>
+                            From here you can search these documents. Enter
+                            your search terms below.
+                        </p>
+                        <form role="form">
+                            <div class="form-group">
+                                <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query">
+                            </div>
+                        </form>
+                        <div id="mkdocs-search-results"></div>
+                    </div>
+                    <div class="modal-footer">
+                    </div>
+                </div>
+            </div>
+        </div>
     </body>
 </html>
