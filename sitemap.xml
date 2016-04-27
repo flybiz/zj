@@ -4,7 +4,7 @@
     
     <url>
      <loc>http://zj.flyabroad.biz/</loc>
-     <lastmod>2016-04-23</lastmod>
+     <lastmod>2016-04-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -13,61 +13,391 @@
         
     <url>
      <loc>http://zj.flyabroad.biz/hb/shidaliuxue/</loc>
-     <lastmod>2016-04-23</lastmod>
+     <lastmod>2016-04-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>http://zj.flyabroad.biz/hb/visanow/</loc>
-     <lastmod>2016-04-23</lastmod>
+     <lastmod>2016-04-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>http://zj.flyabroad.biz/hb/henry/</loc>
-     <lastmod>2016-04-23</lastmod>
+     <lastmod>2016-04-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>http://zj.flyabroad.biz/hb/fuzhong/</loc>
-     <lastmod>2016-04-23</lastmod>
+     <lastmod>2016-04-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>http://zj.flyabroad.biz/hb/canachieve/</loc>
-     <lastmod>2016-04-23</lastmod>
+     <lastmod>2016-04-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>http://zj.flyabroad.biz/hb/jiazhihua/</loc>
-     <lastmod>2016-04-23</lastmod>
+     <lastmod>2016-04-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>http://zj.flyabroad.biz/hb/maslink/</loc>
-     <lastmod>2016-04-23</lastmod>
+     <lastmod>2016-04-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>http://zj.flyabroad.biz/hb/canachieve/</loc>
-     <lastmod>2016-04-23</lastmod>
+     <lastmod>2016-04-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>http://zj.flyabroad.biz/hb/tianhui/</loc>
-     <lastmod>2016-04-23</lastmod>
+     <lastmod>2016-04-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>http://zj.flyabroad.biz/hb/shilihe/</loc>
-     <lastmod>2016-04-23</lastmod>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/hb/meiao/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/hb/aofeng/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/citsmice/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/weian/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/yimininfo/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/iimmi/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/hhlimmi/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/roundimmi/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/hengxin/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/cansine/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/can-goldlink/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/gotocanada/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/welltrend/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/mercan/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/canbo/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/jdflx/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/jinbeifang/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/canachieve/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/jadegroup/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/visa800/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/fanzhidu/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/uptong/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/scstar/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/goodvisa/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/immi/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/fascobj/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/youhao/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/ciicbiz/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/mfits/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/globevisa/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/meidachina/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/maslink/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/grande-med/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/igo180/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/citdc/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/mochances/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/wtimm/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/kingnova/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/guodao/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/jdvisa/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/castond/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/gxrdnf/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/tctd/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/visa360/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/oxbridgedu/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/bifrost/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/fly1999/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/.md/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/.md/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/.md/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/.md/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/.md/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/.md/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/.md/</loc>
+     <lastmod>2016-04-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zj.flyabroad.biz/bj/.md/</loc>
+     <lastmod>2016-04-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
